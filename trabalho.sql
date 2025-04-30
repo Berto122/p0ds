@@ -1,3 +1,6 @@
+CREATE DATABASE base_de_dados 
+  USE base_de_dados
+
 CREATE TABLE clientes_online(
   id_cliente INT,
   nome VARCHAR(100)
